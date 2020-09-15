@@ -1,1 +1,3 @@
-# BIOINF_575_9152020
+# Deep repository for BIOINFO 575
+class repository for BIOINFO 575
+This is a test repository
